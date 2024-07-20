@@ -1,0 +1,29 @@
+ .completeArea li{
+    background-color: #d9d9d9;
+    height:180px;
+    width:135px;
+    padding:8px;
+    margin:8px;
+    list-style:none;
+    border-radius: 8px;
+  }
+  
+  .completeArea{
+    background-color: white;
+    padding:8px;
+    margin:8px;
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+  
+  
+  .completeItem{
+    display:flex;
+    align-items:center;
+  }
+  
+  .return{
+    margin-left:3px;
+  }
+  
+  

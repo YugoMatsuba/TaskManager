@@ -1,0 +1,17 @@
+.inputArea{
+    background-color: white;
+    height:93px;
+    padding:8px;
+    margin:8px;
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+
+  input{
+    margin-right:5px;
+    border: 1px solid black;
+  }
+
+  .inputArea p{
+    color:red;
+  }

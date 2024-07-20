@@ -1,0 +1,58 @@
+  li{
+    margin-top: 0px; 
+  }  
+  
+  .incompleteArea .highImportance li{
+    background-color: lightcoral;
+    height:180px;
+    width:135px;
+    padding:8px;
+    margin:8px;
+    list-style:none;
+    border-radius: 8px;
+  }
+
+  .incompleteArea .mediumImportance li{
+    background-color:#ffeb3b ;
+    height:180px;
+    width:135px;
+    padding:8px;
+    margin:8px;
+    list-style:none;
+    border-radius: 8px;
+  }
+
+  .incompleteArea .lowImportance li{
+    background-color: #90ee90;
+    height:180px;
+    width:135px;
+    padding:8px;
+    margin:8px;
+    list-style:none;
+    border-radius: 8px;
+  }    
+  
+  .incompleteArea{
+    background-color: white;
+    padding:8px;
+    margin:8px;
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+  
+  .incompleteItem{
+    display:flex;
+    align-items:center;
+  }
+  
+  
+  
+  .finish{
+    margin-left:3px;
+  }
+  
+  .delete{
+    margin-left:3px;
+  }
+  
+  
